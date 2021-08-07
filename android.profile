@@ -1,4 +1,4 @@
-export ANDROID_NDK_ROOT=/root/sdk/ndk/22.1.7171670
+export ANDROID_NDK_ROOT=/home/ubuntu/Android/Sdk/ndk/21.3.6528147
 export ANDROID_STRIP_DIR=$ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/arm-linux-androideabi/bin
 
 function addPath {

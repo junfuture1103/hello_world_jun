@@ -1,4 +1,4 @@
-TARGET=hello_world_jun
+TARGET=helloworld
 
 all: $(TARGET)
 
